@@ -58,7 +58,7 @@ Follow these steps to set up and test the project on a new machine:
 1.  **Clone the repository:**
     ```bash
     git clone <repository_url>
-    cd <project_directory>
+    cd <Online_Support_System>
     ```
 
 2.  **Install PHP dependencies:**
